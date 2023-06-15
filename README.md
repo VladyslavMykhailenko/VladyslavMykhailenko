@@ -29,6 +29,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-E44C30?style=for-the-badge&logo=Confluence&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-E44C30?style=for-the-badge&logo=Atom&logoColor=white)
   
-  
+<img src="https://user-images.githubusercontent.com/118790874/204936475-59bb73ce-49a8-44c4-9d9c-7b1f9f8cf96e.gif" width="800">
+
 ⚡ My LinkedIn profile 👉 [![Linkedin Badge](https://img.shields.io/badge/-VladMykhailenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/vlad-mykhailenko/](https://www.linkedin.com/in/vlad-mykhailenko/))](https://www.linkedin.com/in/vlad-mykhailenko/)
 

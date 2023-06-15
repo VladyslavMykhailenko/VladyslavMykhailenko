@@ -1,4 +1,8 @@
-### Hi there 👋 I'm QA Manual & Automation Engineer
+## Hi there!👋
+### My name is Vladyslav, I'm Software QA Automation Engineer from Calgary, CA 💻 🌐   Glad to see you here!
+
+#### My LinkedIn profile:<div id="badges">
+
 ⚡ My Languages & Tools:
 
 ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)

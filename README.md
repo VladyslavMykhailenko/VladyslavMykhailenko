@@ -2,6 +2,8 @@
 ### My name is Vladyslav, I'm Software QA Automation Engineer from Calgary, 🇨🇦
 
 
+
+
   ⚡ My Languages & Tools:
   
 ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)

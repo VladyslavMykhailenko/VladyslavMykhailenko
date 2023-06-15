@@ -1,11 +1,6 @@
 ### Hi there 👋 I'm QA Manual & Automation Engineer
 
-### :man_technologist:About Me :
-   
-:telescope: I’m working as a QA Software Engineer with different Languages (Python,JavaScript,SQL,HTML), services and programs.
+My LinkedIn profile:
 
-:seedling: I’m  engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.
+[![Linkedin Badge](https://img.shields.io/badge/-dmitriiosipov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/vlad-mykhailenko/](https://www.linkedin.com/in/vlad-mykhailenko/))](https://www.linkedin.com/in/vlad-mykhailenko/)
 
-:mailbox: How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Vlad Mykhailenko&logoColor=white)](https://www.linkedin.com/in/vlad-mykhailenko/)
-   

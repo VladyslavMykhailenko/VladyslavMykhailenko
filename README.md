@@ -19,10 +19,10 @@
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF6C37?style=for-the-badge&logo=Sublime&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-FF6C37?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
-![GIT](https://img.shields.io/badge/GIT-66595C?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-66595C?style=for-the-badge&logo=Jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-66595C?style=for-the-badge&logo=Confluence&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-0052CC?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-0052CC?style=for-the-badge&logo=Atom&logoColor=white)
 
 [![Linkedin Badge](https://img.shields.io/badge/-VladMykhailenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/vlad-mykhailenko/](https://www.linkedin.com/in/vlad-mykhailenko/))](https://www.linkedin.com/in/vlad-mykhailenko/)
 

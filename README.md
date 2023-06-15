@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm QA Manual & Automation Engineer
 ⚡ My Languages & Tools:
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![SELENIUM WEBDRIVER](https://img.shields.io/badge/Selenium%20WebDriver-1572B6?style=for-the-badge&logo=Selenium&logoColor=white)

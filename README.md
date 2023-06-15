@@ -16,7 +16,7 @@
 ![Postman](https://img.shields.io/badge/Postman-0052CC?style=for-the-badge&logo=Postman&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-0052CC?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-0052CC?style=for-the-badge&logo=WebStorm&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-0052CC?style=for-the-badge&logo=Sublime&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-0052CC?style=for-the-badge&logo=SublimeText&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0052CC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
 ![GIT](https://img.shields.io/badge/GIT-66595C?style=for-the-badge&logo=git&logoColor=white)

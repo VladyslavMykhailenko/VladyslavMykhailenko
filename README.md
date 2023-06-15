@@ -1,8 +1,6 @@
 ## Hi there!👋
 ### My name is Vladyslav, I'm Software QA Automation Engineer from Calgary, 🇨🇦
 
-#### My LinkedIn profile 
-
 ⚡ My Languages & Tools:
 
 ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)
@@ -28,5 +26,5 @@
 ![Confluence](https://img.shields.io/badge/Confluence-E44C30?style=for-the-badge&logo=Confluence&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-E44C30?style=for-the-badge&logo=Atom&logoColor=white)
 
-#### My LinkedIn profile  👇👉 [![Linkedin Badge](https://img.shields.io/badge/-VladMykhailenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/vlad-mykhailenko/](https://www.linkedin.com/in/vlad-mykhailenko/))](https://www.linkedin.com/in/vlad-mykhailenko/)
+My LinkedIn profile  👇👉 [![Linkedin Badge](https://img.shields.io/badge/-VladMykhailenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/vlad-mykhailenko/](https://www.linkedin.com/in/vlad-mykhailenko/))](https://www.linkedin.com/in/vlad-mykhailenko/)
 

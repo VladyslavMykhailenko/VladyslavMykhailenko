@@ -4,14 +4,14 @@
 ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![SELENIUM WEBDRIVER](https://img.shields.io/badge/Selenium%20WebDriver-1572B6?style=for-the-badge&logo=Selenium&logoColor=white)
-![SELENIUM IDE](https://img.shields.io/badge/Selenium%20IDE-1572B6?style=for-the-badge&logo=Selenium&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-005C84?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white)
 ![API](https://img.shields.io/badge/API-005C84?style=for-the-badge&logo=xml&logoColor=white)
 ![ХPath](https://img.shields.io/badge/ХPath-005C84?style=for-the-badge&logo=xml&logoColor=white)
+
+![SELENIUM WEBDRIVER](https://img.shields.io/badge/Selenium%20WebDriver-1572B6?style=for-the-badge&logo=Selenium&logoColor=white)
+![SELENIUM IDE](https://img.shields.io/badge/Selenium%20IDE-1572B6?style=for-the-badge&logo=Selenium&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-FF6C37?&style=for-the-badge&logo=PyCharm&logoColor=white)

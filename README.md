@@ -2,7 +2,7 @@
 
 ### :man_technologist:About Me :
    
-- :telescope: I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
+- :telescope: I’m working as a QA Software Engineer with different Languages (Python,JavaScript,SQL,HTML), services and programs.
 
 - :seedling: I’m  engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.
 
